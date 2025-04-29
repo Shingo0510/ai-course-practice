@@ -1,4 +1,4 @@
-README.md
+Shingo0510/ai-course-practice
 
 # AI講座 演習リポジトリ
 
