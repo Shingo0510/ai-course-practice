@@ -1,4 +1,4 @@
-#week1
+# week 1 演習
 
 Helloworld
 https://colab.research.google.com/drive/1KkhFiPttUmJ7RgmUDQfRS294lNbg8ARR
